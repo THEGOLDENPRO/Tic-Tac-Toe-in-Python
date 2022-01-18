@@ -1,5 +1,5 @@
 import time
-import pygame, sys, numpy
+import pygame, sys
 import settings
 
 from game import board, render
